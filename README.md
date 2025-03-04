@@ -1,0 +1,1 @@
+Code for generating numerical simulations for mitotic spindle, in MATLAB. Simulations for the paper "A Universal Scaling Law for Mitotic Spindles Driven by Chromosome Crowding" (L. Gudlin et al., 2025) are obtained by running main script spindleMain.m.
